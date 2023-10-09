@@ -1,2 +1,2 @@
-# univesp
-Repository used for collefe activities
+# UNIVESP
+Repository used for college activities
